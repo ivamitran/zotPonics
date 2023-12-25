@@ -1,0 +1,14 @@
+[
+  {
+    "name": "tomato",
+    "pHLevel": 6
+  },
+  {
+    "name": "lettuce",
+    "pHLevel": 8
+  },
+  {
+    "name": "carrot",
+    "pHLevel": 5
+  }
+]
